@@ -70,3 +70,11 @@ if (name4 || name4 == 0) {
 } else {
     console.log('condition is false');
 }
+//
+let name5 = [];
+console.log(name5);
+if (name5) {
+    console.log(true);
+} else {
+    console.log(false);
+}
